@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Areesha Naz
 
-<!--
-**Areesha-Naz/Areesha-Naz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Education:
+Software Engineering student from Pakistan, passionate about building creative and scalable tech solutions.
 
-Here are some ideas to get you started:
+ Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: C, C++, Java, Python, HTML, CSS, JavaScript
+
+Frameworks & Tools: React, Django, MySQL, Git, VS Code
+
+Areas of Interest: Web Development, Cybersecurity, AI, and Data Science
+
+ Projects:
+
+Revogue AI: An AI-powered fashion website created with Reimagine & V0
+
+Meeting Scheduler: Full-stack booking and management system (Django + React)
+
+Resume Builder: Hackathon project for AI-generated resumes
+
+ Find me on:
+
+LinkedIn : https://www.linkedin.com/in/areesha-naz-381a43342
+
+ Email: areeshanaz05@gmail.com
+
+
